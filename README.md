@@ -1,1 +1,1 @@
-# shiny-docker
+# RServer Docker
